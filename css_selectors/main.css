@@ -1,0 +1,50 @@
+* {
+  border: 2px solid;
+}
+
+body {
+  background-color: red;
+}
+
+/* Specific beats broad and css file position*/
+.my_div.special {
+  background-color: yellow;
+}
+
+.my_div {
+  background-color: green;
+  padding: 3px;
+  border: 3px dotted;
+  margin: 3px;
+}
+
+/*comma separate for multiple selectors on a single style*/
+.my_div, .special {
+  background-color: grey;
+}
+
+/*Position of selector in the file matters*/
+.my_div {
+  background-color: blue;
+}
+
+/*id beats class*/
+#specific-thing {
+  background-color: orange;
+}
+
+/*Select by value of attributes
+https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+*/
+a[href^='https'] {
+  background-color: turquoise;
+}
+
+a[href^='http:'] {
+  background-color: grey;
+}
+
+/* note that custom elements are not block*/
+parent child {
+  background-color: yellow;
+}
