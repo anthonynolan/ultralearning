@@ -18,4 +18,8 @@
 * git
 * python
 * machine learning
-
+	* ~Train mnist using logistic regression~
+		* Try it out on a sample of my writing
+		* Blog this
+	* Train mnist using normal nn
+	* Write a recommender system - auto category chooser
