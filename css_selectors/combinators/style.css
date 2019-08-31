@@ -1,0 +1,7 @@
+span {
+  background-color: lightgrey;
+}
+
+div.stuff span {
+  background-color: yellow;
+}
