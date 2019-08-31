@@ -1,8 +1,9 @@
-# Conjugaison:
+# French plan
+
+## Useful links
 
 [Conjugator](http://conjugator.reverso.net/conjugation-french.html)
 
-[Dictionary]
-(https://www.collinsdictionary.com/dictionary/english-french/)
+[Dictionary](https://www.collinsdictionary.com/dictionary/english-french/)
 
 
